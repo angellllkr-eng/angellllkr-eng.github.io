@@ -1,3 +1,2 @@
 ﻿# angellllkr-eng.github.io
-
-Root GitHub Pages site redirecting to MindReply A11-K.
+Redirects to https://mind-reply.github.io/A11-K/
